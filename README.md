@@ -1,2 +1,2 @@
 # paintClone
-echo "namaste hello"
+echo "hello"
