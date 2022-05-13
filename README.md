@@ -1,1 +1,2 @@
 # paintClone
+echo "namaste"
